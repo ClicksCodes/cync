@@ -2,3 +2,4 @@
 
 <hr/>
 
+This repository may initially appear to contain secrets (a discord bot token & a postgres connection string. Please do not worry, these were invalidated before publicizing)
